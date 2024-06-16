@@ -21,7 +21,9 @@ Before running these codes please set up Azure endpoints for GPT-4 and paste the
 ```
 pip install -r requirements.txt
 ```
+```
 cd run_gpt3_rl
+```
 ```
 python learn_policy.py --label exp2 --ckpt_root ../checkpoints --shot_number 2 --prompt_format TQ-SA --seed 2 --model_config bert-base-uncased --train_number 40 --cand_number 10 --lr 0.001 --epochs 20 --embedding_size 128 --batch_size 20 --gpu 0
 ```
