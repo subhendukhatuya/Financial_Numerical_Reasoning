@@ -20,9 +20,9 @@ For ConvFinQA:
 python3 Matching_ConvFinQA.py
 ```
 
-### Running the GPT-4 based target module:
+### Running Target Answer Computation Module:
 
-Before running these codes please set up Azure endpoints for GPT-4 and paste the API Key in the codes below.
+Before running these codes please set up GPT-4 API Key and update that in the code.
 
 For FinQA: 
 ```
