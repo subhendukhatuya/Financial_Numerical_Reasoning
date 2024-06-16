@@ -1,12 +1,19 @@
 Please follow the below steps to run our codebase.
 
 
-## Target Computation Module
 
 ### Data Folder
 
-DATA Folder: https://drive.google.com/drive/folders/1GCYQSEXsXsk_O3rHhx8duZ8xw2EUXNAF?usp=drive_link
+**DATA Folder:** https://drive.google.com/drive/folders/1GCYQSEXsXsk_O3rHhx8duZ8xw2EUXNAF?usp=drive_link
 First unzip "Data_Target_Module" folder in the root folder
+
+
+## Retriever Module
+
+These codes are present under the folder "Retriever Codes". The outputs of these codes will be used in the Target Computation module. \\ 
+The Target Computation Module can be directly run as we provide the outputs from the Retrievers as "_Data_Target_Module_" folder \\
+
+For running Retriever Codes please refer to Readme in the "Retriever Codes" folder
 
 ### Run the Matching codes:
 
@@ -18,7 +25,16 @@ python3 Matching_FinQA.py
 For ConvFinQA: 
 ```
 python3 Matching_ConvFinQA.py
+
 ```
+## In Context Example selection Module
+
+These codes are present under the folder "In_Context_Selection".
+For running In Context Example selection Codes please refer to Readme in the "In_Context_Selection" folder
+
+
+For running Retriever Codes please refer to Readme in the Retriever Codes folder
+
 
 ### Running Target Answer Computation Module:
 
@@ -34,24 +50,12 @@ For ConvFinQA:
 python3 convfinqa_run.py
 ```
 
-## Retriever Module
-
-These codes are present under the folder "Retriever Codes". The outputs of these codes will be used in the Target Computation module. \\ 
-The Target Computation Module can be directly run as we provide the outputs from the Retrievers as "_Data_Target_Module_" folder \\
-
-For running Retriever Codes please refer to Readme in the "_Retriever Codes_" folder
-
-## In Context Example selection Module
-
-These codes are present under the folder "_In_Context_Selection_".
-For running In Context Example selection Codes please refer to Readme in the "_In_Context_Selection_" folder
 
 
-For running Retriever Codes please refer to Readme in the Retriever Codes folder
 
 ## Results
 
-We report all the final files generated under_ Experiment/Final_
+We report all the final files generated under Experiment/Final
 
 
 
