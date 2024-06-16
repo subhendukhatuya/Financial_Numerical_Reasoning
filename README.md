@@ -2,7 +2,7 @@ Please follow the below steps to run our codebase.
 
 DATA Folder: https://drive.google.com/drive/folders/1GCYQSEXsXsk_O3rHhx8duZ8xw2EUXNAF?usp=drive_link
 
-### TARGET COMPUTATION MODULE
+## Target Computation Module
 
 First unzip "Data_Target_Module" folder in the root folder
 
@@ -19,14 +19,14 @@ For FinQA: python3 finqa_run.py
 For ConvFinQA: python3 convfinqa_run.py
 
 
-### RETRIEVER MODULE
+## Retriever Module
 
 These codes are present under the Retriever codes. The outputs of these codes will be used in the Target Computation module. 
 The Target Computation Module can be directly run as we provide the outputs from the Retrievers as "Data_Target_Module" folder
 
 For running Retriever Codes please refer to Readme in the Retriever Codes folder
 
-### RESULTS
+## RESULTS
 
 We report all the final files generated under Experiment/Final
 
