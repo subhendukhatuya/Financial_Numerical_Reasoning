@@ -49,7 +49,7 @@ For running In Context Example selection Codes please refer to Readme in the "In
 
 For running Retriever Codes please refer to Readme in the Retriever Codes folder
 
-## RESULTS
+## Results
 
 We report all the final files generated under Experiment/Final
 
