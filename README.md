@@ -1,14 +1,14 @@
 Please follow the below steps to run our codebase.
 
 
-# Target Computation Module
+## Target Computation Module
 
-## Data Folder
+### Data Folder
 
 DATA Folder: https://drive.google.com/drive/folders/1GCYQSEXsXsk_O3rHhx8duZ8xw2EUXNAF?usp=drive_link
 First unzip "Data_Target_Module" folder in the root folder
 
-## Run the Matching codes:
+### Run the Matching codes:
 
 For FinQA: 
 ```
@@ -20,7 +20,7 @@ For ConvFinQA:
 python3 Matching_ConvFinQA.py
 ```
 
-## Running the GPT-4 based target module:
+### Running the GPT-4 based target module:
 
 Before running these codes please set up Azure endpoints for GPT-4 and paste the API Key in the codes below.
 
