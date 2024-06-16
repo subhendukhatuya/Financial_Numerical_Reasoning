@@ -8,21 +8,21 @@ First unzip "Data_Target_Module" folder in the root folder
 
 ## Run the Matching codes:
 
-For FinQA: python3 Matching_FinQA.py
+For FinQA: python3 Matching_FinQA.py \\
 For ConvFinQA: python3 Matching_ConvFinQA.py
 
 ## Running the GPT-4 based target module:
 
 Before running these codes please set up Azure endpoints for GPT-4 and paste the API Key in the codes below.
 
-For FinQA: python3 finqa_run.py
+For FinQA: python3 finqa_run.py \\
 For ConvFinQA: python3 convfinqa_run.py
 
 
 ## Retriever Module
 
-These codes are present under the Retriever codes. The outputs of these codes will be used in the Target Computation module. 
-The Target Computation Module can be directly run as we provide the outputs from the Retrievers as "Data_Target_Module" folder
+These codes are present under the Retriever codes. The outputs of these codes will be used in the Target Computation module. \\ 
+The Target Computation Module can be directly run as we provide the outputs from the Retrievers as "Data_Target_Module" folder \\
 
 For running Retriever Codes please refer to Readme in the Retriever Codes folder
 
