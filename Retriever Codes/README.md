@@ -1,6 +1,6 @@
 Please follow the below steps to run our codebase.
 
-## RETRIEVER MODULE
+## Retriever Module
 
 ### Data
 Data Folder: https://drive.google.com/drive/folders/1GCYQSEXsXsk_O3rHhx8duZ8xw2EUXNAF?usp=drive_link
