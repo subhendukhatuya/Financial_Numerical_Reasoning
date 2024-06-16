@@ -36,8 +36,16 @@ python3 convfinqa_run.py
 
 # Retriever Module
 
-These codes are present under the Retriever codes. The outputs of these codes will be used in the Target Computation module. \\ 
+These codes are present under the folder "Retriever Codes". The outputs of these codes will be used in the Target Computation module. \\ 
 The Target Computation Module can be directly run as we provide the outputs from the Retrievers as "Data_Target_Module" folder \\
+
+For running Retriever Codes please refer to Readme in the "Retriever Codes" folder
+
+# In Context Example selection Module
+
+These codes are present under the folder "In_Context_Selection".
+For running In Context Example selection Codes please refer to Readme in the "In_Context_Selection" folder
+
 
 For running Retriever Codes please refer to Readme in the Retriever Codes folder
 

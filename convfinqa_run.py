@@ -4,8 +4,6 @@ from tqdm import tqdm
 import openai
 from openai import OpenAI
 from tool import finqa_equal, safe_execute
-#OpenAI.key = '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'
-# client = OpenAI(api_key = "sk-proj-b0fYKvr8Kyb7cTYDYmzbT3BlbkFJwGCRzNoE9r9MADecpSbz")
 from datetime import datetime
 from tool import *
 from typing import Dict, Any
