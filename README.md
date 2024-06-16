@@ -38,10 +38,6 @@ python3 Matching_ConvFinQA.py
 These codes are present under the folder "In_Context_Selection".
 For running In Context Example selection Codes please refer to Readme in the "In_Context_Selection" folder
 
-
-For running Retriever Codes please refer to Readme in the Retriever Codes folder
-
-
 ### Running Target Answer Computation Module:
 
 Before running these codes please set up GPT-4 API Key and update that in the code.
